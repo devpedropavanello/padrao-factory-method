@@ -1,6 +1,11 @@
 ﻿# padrao-factory-method
 
-Implementacao isolada do padrao factorymethod extraida do projeto original Padroes-de-Projetos.
+Implementacao em Java do padrao Factory Method.
+
+## Estrutura
+
+- `src/main/java`: implementacao do padrao
+- `src/test/java`: testes automatizados
 
 ## Como executar os testes
 
